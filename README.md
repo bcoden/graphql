@@ -9,7 +9,7 @@
 
 ##Instructions   
 - Run npm install
-- Run bable-node server.js
+- From your terminal run node_modules/.bin/babel-node server.js
 
 ##References
 - GraphQL (http://graphql.org/docs/api-reference-type-system/)
