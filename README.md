@@ -5,7 +5,8 @@
 0.0.1
 
 ##Requirements
-- Postgres
+- Nodejs (https://nodejs.org/en/)
+- Postgres (http://www.postgresql.org/)
 
 ##Instructions   
 - Run npm install
